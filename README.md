@@ -1,7 +1,5 @@
 
-I see, if the project is a simple template and not a portfolio, you can adjust the README accordingly. Here's a more professional version of the README for a template project:
-
-Professional Web Template
+#Professional Web Template
 Welcome to the Professional Web Template repository! This project provides a versatile and well-designed template for web development purposes. You can access the live version of the template here.
 
 Key Features
